@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=66bffe&height=200&section=header&text=Adrnln&animation=fadeIn&fontSize=65&fontColor=ffffff&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4b4f53&height=200&section=header&text=Adrnln&animation=fadeIn&fontSize=65&fontColor=ffffff&fontAlignY=40" />
 
 <h3 align="center"> ✨ Let's do our best and be the best ✨ </h3><br>
 <img src="https://i.pinimg.com/1200x/fa/24/1c/fa241c944d3502d6dd4b7532a16324f8.jpg" width=25% height=25%><br><br>
