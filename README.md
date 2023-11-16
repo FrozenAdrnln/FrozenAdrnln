@@ -6,6 +6,7 @@
 <div align="center">
 <img src="https://i.pinimg.com/1200x/fa/24/1c/fa241c944d3502d6dd4b7532a16324f8.jpg" width=25% height=25%><br><br>
 🏫 Studying in Sangmyung University, <strong>Artificial Intelligence of Things</strong> since 2023 <br>
+📖 4th member of <strong>Prometheus AI club</strong> <br><br>
 📧 epinephrine7531@gmail.com <br><br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFrozenAdrnln&count_bg=%23A3BBFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 </div>
